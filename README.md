@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://idilipsarker.github.io/p-hero-assignment-1/)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--mgVodcWf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp4ll13f5onw4gqj8ggl.jpg)
 <h1 align="center">Hi 👋, I'm Dilip Sarker</h1>
 <h3 align="center">A Passionate Front-end Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--mgVodcWf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp4ll13f5onw4gqj8ggl.jpg">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://idilipsarker.github.io/p-hero-assignment-1/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idilipsarker&label=Profile%20views&color=0e75b6&style=flat" alt="idilipsarker" /> </p>
 
