@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, React, Firebase**
 
-- 📫 How to reach me **dilipsarker719@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
